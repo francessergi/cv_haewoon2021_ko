@@ -1,0 +1,17 @@
+baseURL = "https://francessergi.github.io/cv_haewoon2021_ko/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+theme = "almeida-cv"
+title = "Haewoon Kim - CV"
+publishDir = "../docs"
+
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#609BD8"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#aaa"
+pages = 1

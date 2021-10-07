@@ -1,0 +1,135 @@
+BasicInfo:
+  FirstName: Haewoon
+  LastName: Kim
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +34 678 177 547
+    - Icon: fas fa-envelope
+      Info: ruinwun@gmail.com
+    - Icon: fas fa-globe
+      Info: linkedin.com/in/haewoonkim
+    - Icon: fas fa-map-marker-alt
+      Info: Mallorca
+
+Profile: 안녕하세요. 저는 김해운입니다. 스페인 바르셀로나 현지에서 다양한 경험을 가지고 있습니다.
+
+Experience:
+  - Employer: 프리랜서
+    Place: Barcelona, ES
+    Positions:
+      - Title: 투어가이드, 현지가이드
+        Date: Apr 2016 - Present
+        Details:
+          - 카탈루냐 전 지역 가이드투어
+          - CS 고객관리, 여행플래너, 투어오퍼레이터 업무 
+          - 그룹 및 개인가이드 투어 
+          - 통역서비스
+          - MWC 행사 수행, SK그룹 행사 수행 
+          - 2021년 문재인 대통령 스페인 방문 시 수행요원
+        Badges: ['가이드', '여행플래너', '스페인', '바르셀로나', '6년', '여행업']
+  - Employer: 빨간바지투어
+    Place: Barcelona, ES
+    Positions:
+      - Title: 투어가이드, 현지가이드
+        Date: Apr 2016 - Present
+        Details:
+          - 바르셀로나 가이드투어
+          - CS 고객관리, 여행플래너
+          - 개인가이드 투어 
+        Badges: ['가이드', '여행플래너', '바르셀로나', '여행업']
+  - Employer: 이지메디컴(주)
+    Place: Seoul, KO
+    Positions:
+      - Title: 사원
+        Date: Mar 2012 - Nov 2015
+        Details:
+          - ERP운용 
+          - 경영지원, 영업지원 
+          - 사립병원 발주 및 마감업무
+          - 세금계산서 매출/매입 회계처리
+          - 물류지원, CS관리, B2B 관련 서비스관리
+        Badges: ['CS관리', '마감정산', 'B2B']
+  - Employer: 한스컴퍼니
+    Place: Seoul, KO
+    Positions:
+      - Title: 사원
+        Date: Jun 2011 - Jen 2012
+        Details:
+          - 발주업무, 물류업무 
+          - CS 고객 관리          
+        Badges: ['CS관리', '유통업', '쇼핑몰']
+  - Employer: (주)콤비코리아
+    Place: Seoul, KO
+    Positions:
+      - Title: 사원
+        Date: Nov 2010 - May 2011
+        Details:
+          - 영업지원, 전표관리
+          - 발주업무, 물류지원
+          - CS관리
+          - 마감 회계업무
+        Badges: ['CS관리', '유통업', '영업지원']
+
+Education:
+  - Course: 관광과
+    Place: 경성여자실업고등학교(서울)
+    Date: Mar 2004 - Feb 2007
+    Details: 
+  - Course: 국제관광과
+    Place: 한양여자대학교(서울)
+    Date: Mar 2009 - Feb 2011
+    Details: 학점 3.32 / 4.5
+
+# Skills:
+#   - Family: Programming
+#     Items:
+#       - Java
+#       - HTML (including Bootstrap)
+#       - Javascript
+#       - CSS
+#       - PHP
+#       - SQL
+#       - Bash
+#   - Family: Frameworks
+#     Items:
+#       - Symfony
+#       - Spring
+#       - Hugo
+#       - React
+#       - Api Platform
+#   - Family: Developer Tools
+#     Items:
+#       - Git
+#       - Docker
+#       - Jenkins
+#       - Jira
+#       - Composer
+#       - Postman
+#   - Family: Misc
+#     Items:
+#       - Gimp
+#       - Audacity
+
+Languages:
+  - Name: English
+    Level: A2
+  - Name: Spanish
+    Level: B1
+  - Name: Japanese
+    Level: A2
+  - Name: Korean
+    Level: Native
+
+Diplomas:
+  - 2009.10.11 해병대청룡훈련단장(리더쉽교육 및 해병대 소정의 교육과정 수료)
+  - 2010.02.25 매너와 서비스(매너와 서비스 8시간 교육과정 이수)
+  - 2010.07.25 2010대 충청방문의 해 충북국제관광학술대회 “대학생제안서발표대회” 우수상 수상
+
+Interests:
+  - Nintendo
+  - Crochet
+  - Animals
+  - Travel
+  - Mallorca
+  - Corea
